@@ -1,3 +1,9 @@
+![GitHub stars](https://img.shields.io/github/stars/tharun14121/Brain-Tumor-detection)
+![GitHub forks](https://img.shields.io/github/forks/tharun14121/Brain-Tumor-detection)
+![GitHub repo size](https://img.shields.io/github/repo-size/tharun14121/Brain-Tumor-detection)
+![GitHub last commit](https://img.shields.io/github/last-commit/tharun14121/Brain-Tumor-detection)
+
+
 # User Churn Prediction Using LightGBM & CatBoost
 
 Predicting customer churn is a critical business problem where the objective is to identify users who are likely to stop using a service. This project builds a robust **end-to-end churn prediction pipeline** using **tree-based gradient boosting models**, with a strong focus on **business-oriented evaluation metrics** and **model interpretability**.
